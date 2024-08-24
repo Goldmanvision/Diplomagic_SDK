@@ -1,0 +1,1 @@
+Here lies Diplomagic SDK
