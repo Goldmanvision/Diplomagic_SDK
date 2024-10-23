@@ -78,3 +78,11 @@ DerivedDataCache/*
 *.zip
 *.ucas
 *.mp3
+Windows/Diplomagic_SDK/Binaries/Win64/Diplomagic_SDK-Win64-DebugGame.pdb
+roars_over_kadath.aup3
+Content/Dynamic/Sound/Audio/Snowstorm_Cue.uasset
+Content/Dynamic/Sound/Audio/Snowstorm.uasset
+Content/Dynamic/Sound/Audio/Hallucinations_Lovecraftian_Cue.uasset
+Content/Dynamic/Sound/Audio/Hallucinations_Lovecraftian.uasset
+Content/Dynamic/Sound/Audio/DampCavern_Cue.uasset
+Content/Dynamic/Sound/Audio/DampCavern.uasset
