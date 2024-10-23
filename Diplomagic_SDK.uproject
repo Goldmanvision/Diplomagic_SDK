@@ -7,7 +7,10 @@
 		{
 			"Name": "Diplomagic_SDK",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	],
 	"Plugins": [
@@ -41,6 +44,22 @@
 		},
 		{
 			"Name": "PixelStreamingPlayer",
+			"Enabled": true
+		},
+		{
+			"Name": "SkeletalMeshModelingTools",
+			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "WaterExtras",
+			"Enabled": true
+		},
+		{
+			"Name": "Buoyancy",
 			"Enabled": true
 		}
 	],
